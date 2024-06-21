@@ -1,7 +1,7 @@
-# CS229_final_project
-CS229 final project 2023 Fall
+# Predicting post-transcriptional ADAR activity using machine learning
+_For CS229: Machine Learning, Stanford University, Fall 2023_
 
-Team Member: Chang M. Yun (SUNet ID: cmyun) and Xiaowei Zhang (SUNet ID: zhangxw)
+Team Member: Chang M. Yun and Xiaowei Zhang
 
 ## 1. Feature engineering and ensemble tree based model:
 * Code for feature engineering: CS229_new_feateng_consolidated.ipynb
