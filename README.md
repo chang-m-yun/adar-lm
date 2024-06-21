@@ -9,6 +9,6 @@ Team Member: Chang M. Yun and Xiaowei Zhang
 * Code for training with RandomForestRegressor: RandomForrest.ipynb
 * Code for training with XGBoost Regressor: XGBoost.ipynb
 
-## 2. Transformer-based language model:
+## Model 2. Transformer-based language model:
 * Code for data processing: data_preprocessing.ipynb
 * Code for transformer model: Transformer.ipynb
