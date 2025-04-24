@@ -1,7 +1,11 @@
 # Predicting post-transcriptional ADAR activity using machine learning
-_For CS229: Machine Learning, Stanford University, Fall 2023_
+**Authors**: Chang M. Yun<sup>1</sup>, Xiaowei Zhang<sup>2</sup> \
+<sup>1</sup>Department of Chemical Engineering, Stanford University, <sup>2</sup>Department of Bioengineering, Stanford University
 
-Team Member: Chang M. Yun and Xiaowei Zhang
+![Figure 1: Schematic of adenosine-to-inosine (A-to-I) modification by ADARs](/docs/figure_1.png)
+
+**Figure 1: Schematic of adenosine-to-inosine (A-to-I) modification by ADARs<sup>1</sup>.** \
+<sup>1</sup>Nakahama, T. & Kawahara, Y. Adenosine-to-inosine RNA editing in the immune system: friend or foe? Cell. Mol. Life Sci. 77, 2931–2948 (2020).
 
 ## Model 1. Feature engineering and ensemble tree based model:
 * Code for merging B2 and mNG dataset: data_merge.ipynb
